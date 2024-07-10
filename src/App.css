@@ -1,0 +1,23 @@
+
+header{
+  background-color: lightgray;
+}
+.logo{
+  font-size: 28px;
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+}
+nav ul li a{
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(26, 25, 25);
+}
+
+
+
+
+
+
+
+
